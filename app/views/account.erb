@@ -7,8 +7,8 @@
   </head>
   <body id="page-top">
       <p><% if Helpers.is_logged_in? %><p>
-      <h1>"Welcome" <%= Helpers.user(session).username %></h1>
-      <h3>"Your Balance:" <%= Helpers.user(session).balance %></h3>
+      <h1>"Welcome <%= @user.username %>"</h1>
+      <h3>"Your Balance: <%= @user.balance %>"</h3>
     <input type="submit" value="logout">
   </body>
 </html>

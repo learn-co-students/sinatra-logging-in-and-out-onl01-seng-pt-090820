@@ -1,0 +1,25 @@
+-------------------- Auto-Git Log --------------------
+		Sun Dec 27 2020 00:29:11 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Gemfile.lock
+* app/controllers/application_controller.rb
+* app/helpers/helpers.rb
+* app/models/user.rb
+* app/views/account.erb
+* app/views/index.erb
+* db/test.sqlite
+
+
+Created files:
+* .autogit/autogit.json
+* db/development.sqlite
+* db/migrate/20201227050952_create_users.rb
+* db/schema.rb
+
+
+Deleted files:
+
+
+Renamed files:

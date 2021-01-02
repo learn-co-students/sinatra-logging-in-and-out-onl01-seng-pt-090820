@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri Jan 01 2021 22:58:44 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/views/error.erb
+* db/test.sqlite
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
